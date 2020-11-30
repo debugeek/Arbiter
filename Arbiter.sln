@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arbiter", "Arbiter\Arbiter.vcproj", "{C9F14112-3B44-442B-A61F-0BE1998AAD46}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArbiterFSEngine", "ArbiterFSEngine\ArbiterFSEngine.vcproj", "{49FFCDA7-B8F8-467A-89AE-3EC75DD253EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F14112-3B44-442B-A61F-0BE1998AAD46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9F14112-3B44-442B-A61F-0BE1998AAD46}.Debug|Win32.Build.0 = Debug|Win32
+		{C9F14112-3B44-442B-A61F-0BE1998AAD46}.Release|Win32.ActiveCfg = Release|Win32
+		{C9F14112-3B44-442B-A61F-0BE1998AAD46}.Release|Win32.Build.0 = Release|Win32
+		{49FFCDA7-B8F8-467A-89AE-3EC75DD253EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49FFCDA7-B8F8-467A-89AE-3EC75DD253EB}.Debug|Win32.Build.0 = Debug|Win32
+		{49FFCDA7-B8F8-467A-89AE-3EC75DD253EB}.Release|Win32.ActiveCfg = Release|Win32
+		{49FFCDA7-B8F8-467A-89AE-3EC75DD253EB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

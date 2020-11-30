@@ -1,0 +1,8 @@
+LIBRARY	"ArbiterFSEngine"
+
+EXPORTS
+	InitializeFSEngine
+	UninitializeFSEngine
+	SetHwnd
+	SetDevice
+	AddTask
